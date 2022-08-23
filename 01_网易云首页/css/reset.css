@@ -1,0 +1,29 @@
+body, h1, h2, h3, ul, ol, li, dl, dt, dd, p {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li, ol {
+  list-style: none;
+}
+
+i {
+  font-style: normal;
+}
+
+img {
+  vertical-align: top;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+
+  outline: none;
+}
+
+input {
+  outline: none;
+  border: none;
+}
